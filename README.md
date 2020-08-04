@@ -8,6 +8,7 @@ Keyboard mappings for easy access.
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/irl.gif?raw=true"/>
 
 ## Installation
+* ![Download the plist file]()
 * Navigate to System Preferences → Keyboard → Text 
 * Drag and drop the downloaded `glyphs.plist` to the text window
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/demo.gif?raw=true"/>
