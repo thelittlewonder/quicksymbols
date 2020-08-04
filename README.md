@@ -1,6 +1,11 @@
-<img src="https://raw.githubusercontent.com/thelittlewonder/quicksymbols/docs/logo.png?token=AESWG6ST7SVNPGGVIDVPUSC7GI7UI" alt="Quick Symbols"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/thelittlewonder/quicksymbols/docs/logo.png?token=AESWG6ST7SVNPGGVIDVPUSC7GI7UI" alt="Quick Symbols" height="64px"/>
+</p>
 
-> Common symbols and glyphs for Mac OS
+## Common symbols and glyphs for Mac OS
+Keyboard mappings for easy access.
+
+<img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/irl.gif?raw=true"/>
 
 ## Installation
 * Navigate to System Preferences → Keyboard → Text 
