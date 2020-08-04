@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/thelittlewonder/quicksymbols/docs/logo.png?token=AESWG6ST7SVNPGGVIDVPUSC7GI7UI" alt="Quick Symbols" height="64px"/>
 </p>
 
-## Common symbols and glyphs for Mac OS
-Keyboard mappings for easy access.
+## Keyboard mapping of common symbols for Mac OS
+Easily use glyphs in your day to day life
 
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/irl.gif?raw=true"/>
 
