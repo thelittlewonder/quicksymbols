@@ -154,25 +154,25 @@
             <key>phrase</key>
             <string>◐</string>
             <key>shortcut</key>
-            <string>:hcricle-l:</string>
+            <string>:hcircle-l:</string>
         </dict>
         <dict>
             <key>phrase</key>
             <string>◑</string>
             <key>shortcut</key>
-            <string>:hcricle-r:</string>
+            <string>:hcircle-r:</string>
         </dict>
         <dict>
             <key>phrase</key>
             <string>◓</string>
             <key>shortcut</key>
-            <string>:hcricle-up:</string>
+            <string>:hcircle-up:</string>
         </dict>
         <dict>
             <key>phrase</key>
             <string>◒</string>
             <key>shortcut</key>
-            <string>:hcricle-dn:</string>
+            <string>:hcircle-dn:</string>
         </dict>
         <dict>
             <key>phrase</key>
