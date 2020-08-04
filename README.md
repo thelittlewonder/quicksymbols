@@ -8,6 +8,36 @@ Keyboard mappings for easy access.
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/irl.gif?raw=true"/>
 
 ## Cheatsheet
+Shorthand | Symbol |
+--- | --- |
+:em: | — |
+:en: | – |
+:unequal: | ≠ |
+:minus: | − |
+:multiply: | × |
+:divide: | ÷ |
+:ar-up: | ↑ |
+:ar-dn: | ↓ |
+:ar-l: | ← |
+:ar-r: | → |
+:ar-nw: | ↖ |
+:ar-ne: | ↗ |
+:ar-sw: | ↘ |
+:ar-se: | ↙ |
+:ar-f-up: | ▲ |
+:ar-f-dn: | ▼ |
+:ar-f-r: | ▶ |
+:ar-f-l: | ◀ |
+:rupee: | ₹ |
+:square: | ■ |
+:diamond: | ◆ |
+:hcircle-up: | ◓ |
+:hcircle-dn: | ◒ |
+:hcircle-l: | ◐ |
+:hcircle-r: | ◑ |
+:cmd: | ⌘ |
+:option: | ⌥ |
+:shift: | ⇧ |
 
 ## Installation
 * ![Download the file]()
