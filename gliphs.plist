@@ -174,5 +174,23 @@
             <key>shortcut</key>
             <string>:hcricle-dn:</string>
         </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌘</string>
+            <key>shortcut</key>
+            <string>:cmd:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⌥</string>
+            <key>shortcut</key>
+            <string>:option:</string>
+        </dict>
+        <dict>
+            <key>phrase</key>
+            <string>⇧</string>
+            <key>shortcut</key>
+            <string>:shift:</string>
+        </dict>
     </array>
 </plist>
