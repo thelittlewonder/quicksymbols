@@ -7,6 +7,8 @@ Keyboard mappings for easy access.
 
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/irl.gif?raw=true"/>
 
+## Cheatsheet
+
 ## Installation
 * ![Download the file]()
 * Navigate to System Preferences → Keyboard → Text 
