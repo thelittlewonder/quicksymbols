@@ -40,7 +40,7 @@ Shorthand | Symbol |
 :shift: | ⇧ |
 
 ## Installation
-* ![Download the file]()
+* ![Download the file](https://github.com/thelittlewonder/quicksymbols/archive/1.1.zip)
 * Navigate to System Preferences → Keyboard → Text 
 * Drag and drop the downloaded `glyphs.plist` to the text window
 <img src="https://github.com/thelittlewonder/quicksymbols/blob/docs/demo.gif?raw=true"/>
