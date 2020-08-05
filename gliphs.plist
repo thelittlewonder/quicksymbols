@@ -192,5 +192,11 @@
             <key>shortcut</key>
             <string>:shift:</string>
         </dict>
+        <dict>
+            <key>phrase</key>
+            <string>¯\_(ツ)_/¯</string>
+            <key>shortcut</key>
+            <string>:shrug:</string>
+        </dict>
     </array>
 </plist>
